@@ -61,7 +61,7 @@
 
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
